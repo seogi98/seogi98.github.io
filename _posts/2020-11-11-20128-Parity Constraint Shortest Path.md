@@ -1,14 +1,13 @@
 ---
 layout: post
-title: "백준 20218번 Parity Constraint Shortest Path"
+title: "백준 20128번 Parity Constraint Shortest Path"
 date: 2020-11-11
 excerpt: "다익스트라 응용문제"
 tags: [백준,알고리즘,G3,다익스트라,그래프 이론]
 comments: true
 ---
-# 2206번 확장 문제
 
-문제 링크 : [백준 20218번 문제 링크](https://www.acmicpc.net/problem/20218).
+문제 링크 : [백준 20128번 문제 링크](https://www.acmicpc.net/problem/20128).
 
 ## 1. 문제 풀이 방법
 
